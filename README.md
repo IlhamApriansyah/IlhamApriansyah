@@ -1,6 +1,6 @@
 > 👋 Hi, I’m @IlhamApriansyah
 
-> 👀 I’m interested in Application Project
+> 👀 I’m interested in Backend Project
 
 > 🌱 I’m currently learning Python
 
