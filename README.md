@@ -1,6 +1,6 @@
 ## Nama
 
-> Ilham Apriansyah
+lham Apriansyah
 
 ## Bahasa Pemrograman yang dikuasai
 <p align="left">
@@ -20,6 +20,7 @@
 </p>
 
 ## Framework dan library yang sudah dipelajari
+<p align="left">
 
 <img alt="Github" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
 
@@ -29,7 +30,11 @@
 
 <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
+</p>
+
 ## Sistem Operasi yang pernah digunakan
+
+<p align="left">
 
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
@@ -44,6 +49,8 @@
 <img alt="Elementary" src="https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white" />
 
 <img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+
+</p>
 
 ## Cara menghubungi saya?
 
