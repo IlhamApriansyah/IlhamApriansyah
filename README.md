@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **newbie backend or whatever**
+- 👯 I’m looking to collaborate on **newbie backend or frontend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IlhamApriansyah](https://github.com/IlhamApriansyah)
 
-- 💬 Ask me about **Backend Tech**
+- 💬 Ask me about **backend or frontend tech**
 
 - 📫 How to reach me **ilhamapriansyah471@gmail.com**
 
