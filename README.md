@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **newbie backend or frontend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IlhamApriansyah](https://github.com/IlhamApriansyah)
-
 - 💬 Ask me about **backend tech project**
 
 - 📫 How to reach me **ilhamapriansyah471@gmail.com**
