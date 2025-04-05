@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **newbie backend or frontend**
-
-- 💬 Ask me about **backend tech project**
+- 👯 I’m looking to collaborate on **backend or frontend project**
 
 - 📫 How to reach me **ilhamapriansyah471@gmail.com**
 
