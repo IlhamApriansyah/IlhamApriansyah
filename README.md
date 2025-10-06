@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **backend or frontend project**
+- 👯 I’m looking to collaborate on **backend, frontend, and fullstack project**
 
 - 📫 How to reach me **ilhamapriansyah471@gmail.com**
 
