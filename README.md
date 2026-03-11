@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilham Apriansyah</h1>
-<h3 align="center">A passionate backend developer from Indonesian</h3>
+<h3 align="center">A passionate developer from Indonesian</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **backend, frontend, and fullstack project**
 
