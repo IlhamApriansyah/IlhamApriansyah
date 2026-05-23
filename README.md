@@ -4,10 +4,6 @@ Your cute programmer (>,<)
 
 <img src="https://i.pinimg.com/736x/67/5e/c2/675ec24dd18843206af02e8744ea006c.jpg" width="200" height="200">
 
-- [Tentang](#Tentang)
-- [Sekarang](#Sekarang)
-- [Kontak](#Kontak)
-
 ## Tentang <a name = "Tentang"></a>
 
 Halo, berikut biodata saya :
