@@ -1,28 +1,35 @@
-<h1 align="center">Hi 👋, I'm Ilham Apriansyah</h1>
-<h3 align="center">A passionate developer from Indonesian</h3>
+# Ilham Apriansyah
 
-- 🌱 I’m currently learning **Web Development**
+Your cute programmer (>,<)
 
-- 👯 I’m looking to collaborate on **backend, frontend, and fullstack project**
+<img src="https://i.pinimg.com/736x/67/5e/c2/675ec24dd18843206af02e8744ea006c.jpg" width="200" height="200">
 
-- 📫 How to reach me **ilhamapriansyah471@gmail.com**
+- [Tentang](#Tentang)
+- [Sekarang](#Sekarang)
+- [Kontak](#Kontak)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/ilham.apriansyah810?mibextid=ZbWKwL" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ilham apriansyah" height="30" width="40" />
-</a>
-</p>
+## Tentang <a name = "Tentang"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-</p>
+Halo, berikut biodata saya :
+
+```
+{
+  "NamaAwal" : "Ilham",
+  "NamaAkhir" : "Apriansyah",
+  "Umur" : 25, 
+  "Status" : ["Menikah", "Belum Menikah"],
+  "Warga" : ["Indonesia", "Vietnam", "Jepang", "Malaysia"],
+  "Tempat"  : ["Tangerang", "Bandung", "Majalengka"],
+  "Pekerjaan" : ["Pengajar", "Staff IT", "Programmer"]
+}
+```
+
+## Status Saat Ini <a name = "Sekarang"></a>
+
+`console.log(NamaAwal + NamaAkhir + Umur + Status[1] + Warga[0] + Tempat[2] + Pekerjaan[0])`
+
+## Kontak <a name = "Kontak"></a>
+
+Coming Soon....
+
+<img src="https://media1.tenor.com/m/gNgtEpVk_fUAAAAC/prabowo-wowo.gif">
