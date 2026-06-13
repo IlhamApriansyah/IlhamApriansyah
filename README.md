@@ -24,8 +24,8 @@ Halo, berikut biodata saya :
 
 `console.log(NamaAwal + NamaAkhir + Umur + Status[1] + Warga[0] + Tempat[2] + Pekerjaan[0])`
 
-## Kontak <a name = "Kontak"></a>
+## Motto Hidup <a name = "Motto"></a>
 
-Coming Soon....
+Seorang pria pernah berkata :
 
 <img src="https://media1.tenor.com/m/gNgtEpVk_fUAAAAC/prabowo-wowo.gif">
