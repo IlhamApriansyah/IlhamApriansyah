@@ -28,4 +28,4 @@ Halo, berikut biodata saya :
 
 Seorang pria pernah berkata :
 
-<img src="https://media1.tenor.com/m/gNgtEpVk_fUAAAAC/prabowo-wowo.gif">
+<img src="https://github.com/fufufufafafa/fufufafa-memorable-quotes/blob/2c20cf0bcc73e6f27ffec7c061ea9c06a2b9a327/img/040.png">
